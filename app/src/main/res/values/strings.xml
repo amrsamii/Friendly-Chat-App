@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Friendly Chat</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="send_button_label">Send</string>
+    <string name="sign_in">Don\'t have Account? <u> Sign Up</u></string>
+    <string name="forget_string"><u>Forget Password?</u></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
